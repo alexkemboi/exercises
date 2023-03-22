@@ -21,11 +21,22 @@ function flatten(arr) {
   const res=flatten(arr);
   console.log(res);
 
+  function largestValue(array){
+    let largestNumber=0;
+      for(let i=0;i<res.length;i++){
+        if(res[i]>largestNumber){
+          largestNumber=res[i];
+        }
+      }
+      return largestNumber;
+  }
+  console.log(largestValue(res));
+
   function reverseString(word){
-    let reverseWord='';
-    for(let i=word.length-1;i>=0;i--){
-       reverseWord+=word[i];
-    }
+    let reverseWord=word.split("").reverse().join("");
+    // for(let i=word.length-1;i>=0;i--){
+    //    reverseWord+=word[i];
+    // }
     return reverseWord;
   }
   const username='alex';
