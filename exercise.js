@@ -1,3 +1,5 @@
+import noOfVowels from './noOfVowels';
+noOfVowels('meat');
 //Functin that takes two numbers as an arguments and returns the product
 function multiply(a,b){
     const product=a*b;
@@ -65,4 +67,4 @@ function flatten(arr) {
     }
     console.log(sum);
  }
- sumEven(arr);
+ sumEven(res);
