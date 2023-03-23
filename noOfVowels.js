@@ -10,4 +10,4 @@ for(let i=0;i<word.length;i++){
 }
 console.log(count);
 }
-noOfVowels("maeit");
+noOfVowels("hello world");
