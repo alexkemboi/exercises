@@ -7,3 +7,7 @@ For example, if the function is called with multiply(2, 5),it should return 10.<
 5.  Write a JavaScript function that takes in an array of numbers and returns the sum of all the even numbers in the array. If the array is empty, return 0.
 6.  Write a function that takes in a string and returns the number of vowels in the string. For this question, consider 'a', 'e', 'i', 'o', and 'u' to be vowels. For example, given the string "Hello, world!", the function should return 3, since there are three vowels in the string (two 'o's and one 'e').
 7.  Write a function called checkPalindrome that takes a string as a parameter and returns true if the string is a palindrome (reads the same forward and backward), and false otherwise.
+8.  Write a function that takes a string as input and returns the most common character in the string.
+9.  Write a function that takes an array of objects, where each object represents a person with a name and an age property, and returns an array of the names of all the people who are over 18 years old.
+10. Write a function that takes a string as input and returns a new string where every other character is capitalized.
+11. Write a function that takes an array of integers and returns a new array where all the numbers are sorted in ascending order, but any even numbers come before any odd numbers.
