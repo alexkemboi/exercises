@@ -15,3 +15,15 @@ function checkPalidrome(word){
   }
 }
 console.log(checkPalidrome('eye'));
+
+
+
+//check if word is Palidrome
+function isPalindrome(word) {
+    // Convert the word to lowercase and remove any non-alphanumeric characters
+    word = word.toLowerCase().replace(/[^a-z0-9]/g, '');
+    
+    // Reverse the word and compare it to the original
+    return word === word.split('').reverse().join('');
+  }
+  
