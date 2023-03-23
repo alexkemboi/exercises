@@ -6,3 +6,4 @@ For example, if the function is called with multiply(2, 5),it should return 10.<
 4.  Write a function called findMax that takes an array of numbers as input and returns the largest number in the array. For example, if the input array is [3, 5, 1, 7, 2], the function should return 7. <br/>
 5.  Write a JavaScript function that takes in an array of numbers and returns the sum of all the even numbers in the array. If the array is empty, return 0.
 6.  Write a function that takes in a string and returns the number of vowels in the string. For this question, consider 'a', 'e', 'i', 'o', and 'u' to be vowels. For example, given the string "Hello, world!", the function should return 3, since there are three vowels in the string (two 'o's and one 'e').
+7.  Write a function called checkPalindrome that takes a string as a parameter and returns true if the string is a palindrome (reads the same forward and backward), and false otherwise.
