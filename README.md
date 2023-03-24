@@ -11,3 +11,13 @@ For example, if the function is called with multiply(2, 5),it should return 10.<
 9.  Write a function that takes an array of objects, where each object represents a person with a name and an age property, and returns an array of the names of all the people who are over 18 years old.
 10. Write a function that takes a string as input and returns a new string where every other character is capitalized.
 11. Write a function that takes an array of integers and returns a new array where all the numbers are sorted in ascending order, but any even numbers come before any odd numbers.
+12. What is the difference between == and === in JavaScript? Provide an example.
+13. How do you create a new object in JavaScript?
+14. What is the difference between a for loop and a while loop in JavaScript?
+15. What is the this keyword in JavaScript? How is it used?
+16. How do you add an event listener to a DOM element in JavaScript?
+17. What is the difference between a function declaration and a function expression in JavaScript?
+18. What is the difference between let, const, and var in JavaScript?
+19. What is the purpose of the try...catch statement in JavaScript?
+20. How do you check if an object has a property in JavaScript?
+21. What is a closure in JavaScript? Provide an example.
