@@ -21,3 +21,53 @@ For example, if the function is called with multiply(2, 5),it should return 10.<
 19. What is the purpose of the try...catch statement in JavaScript?
 20. How do you check if an object has a property in JavaScript?
 21. What is a closure in JavaScript? Provide an example.
+22. What is JavaScript?
+23. How do you declare a variable in JavaScript?
+24. What are the different data types in JavaScript?
+25. What is the difference between let and var in JavaScript?
+26. How do you create an array in JavaScript?
+27. How do you loop through an array in JavaScript?
+28. How do you add an element to an array in JavaScript?
+29. How do you remove an element from an array in JavaScript?
+30. How do you sort an array in JavaScript?
+31. What is a callback function in JavaScript?
+32. What is an event in JavaScript?
+33. How do you handle events in JavaScript?
+34. What is the difference between == and === in JavaScript?
+35. What is the difference between null and undefined in JavaScript?
+36. How do you create an object in JavaScript?
+37. What is a prototype in JavaScript?
+38. How do you access a property of an object in JavaScript?
+39. How do you add a property to an object in JavaScript?
+40. How do you remove a property from an object in JavaScript?
+41. How do you iterate over the properties of an object in JavaScript?
+42. What is the difference between a function declaration and a function expression in JavaScript?
+43. What is the difference between a method and a function in JavaScript?
+44. How do you pass parameters to a function in JavaScript?
+45. What is the return statement in JavaScript?
+46. How do you define a class in JavaScript?
+47. How do you create an instance of a class in JavaScript?
+48. How do you inherit from a class in JavaScript?
+49. What is the difference between static and instance methods in JavaScript?
+50. What is the difference between private and public properties in JavaScript?
+51. What is the difference between synchronous and asynchronous code in JavaScript?
+52. What is a promise in JavaScript?
+53. How do you create a promise in JavaScript?
+54. How do you handle errors in a promise chain in JavaScript?
+55. What is the difference between Promise.all and Promise.race in JavaScript?
+56. How do you use async/await in JavaScript?
+57. What is the difference between a for loop and a forEach loop in JavaScript?
+58. What is the difference between map, filter, and reduce in JavaScript?
+53. What is a closure in JavaScript?
+54. How do you create a closure in JavaScript?
+55. What is the difference between a global variable and a local variable in JavaScript?
+56. How do you declare a constant in JavaScript?
+57. How do you use the spread operator in JavaScript?
+58. What is destructuring in JavaScript?
+59. How do you use destructuring in JavaScript?
+60. What is a template literal in JavaScript?
+61. How do you use a template literal in JavaScript?
+62. What is the difference between a let and const variable in JavaScript?
+63. How do you convert a string to a number in JavaScript?
+64. How do you convert a number to a string in JavaScript?
+65. How do you use regular expressions in JavaScript?
