@@ -71,3 +71,37 @@ For example, if the function is called with multiply(2, 5),it should return 10.<
 63. How do you convert a string to a number in JavaScript?
 64. How do you convert a number to a string in JavaScript?
 65. How do you use regular expressions in JavaScript?
+    Create a function that takes two numbers as arguments and returns their sum.
+    Write a function that takes a string as input and reverses it.
+    Create a function that takes an array of numbers and returns the average.
+    Write a function that takes an array of numbers and returns the maximum value.
+    Create a function that takes a string and returns the number of vowels in it.
+    Write a function that takes an array of strings and returns the longest string.
+    Create a function that takes an array of numbers and returns only the even ones.
+    Write a function that takes a string and removes all the spaces from it.
+    Create a function that takes an array of numbers and returns the sum of only the positive ones.
+    Write a function that takes an array of strings and returns an array with the length of each string.
+    Create a function that takes a string and returns the first letter of each word.
+    Write a function that takes an array of numbers and returns the sum of the first and last numbers.
+    Create a function that takes an array of strings and returns an array with only the ones that start with a vowel.
+    Write a function that takes a string and returns the number of words in it.
+    Create a function that takes an array of numbers and returns a new array with the numbers sorted in descending order.
+    Write a function that takes a string and returns a new string with the first letter of each word capitalized.
+    Create a function that takes an array of numbers and returns the product of only the negative ones.
+    Write a function that takes a string and returns a new string with the vowels removed.
+    Create a function that takes an array of strings and returns an array with only the ones that contain a specific letter.
+    Write a function that takes a number as input and returns true if it is even and false if it is odd.
+    Create a function that takes an array of numbers and returns a new array with only the ones that are multiples of three.
+    Write a function that takes a string and returns a new string with the letters in reverse order.
+    Create a function that takes an array of numbers and returns the difference between the largest and smallest number.
+    Write a function that takes an array of strings and returns a new array with only the ones that have more than five letters.
+    Create a function that takes a string and returns true if it is a palindrome (reads the same backwards as forwards) and false if it is not.
+    Write a function that takes an array of numbers and returns a new array with only the ones that are prime.
+    Create a function that takes an array of strings and returns a new array with only the ones that have a specific length.
+    Write a function that takes a number as input and returns true if it is a multiple of seven and false if it is not.
+    Create a function that takes an array of numbers and returns the median value.
+    Write a function that takes a string and returns a new string with the words in reverse order.
+    Create a function that takes an array of strings and returns a new array with only the ones that are all uppercase.
+    Write a function that takes a number as input and returns true if it is a perfect square and false if it is not.
+    Create a function that takes an array of numbers and returns the second largest number.
+    Write a function that takes a string and returns a new string with the letters sorted in alphabetical order
