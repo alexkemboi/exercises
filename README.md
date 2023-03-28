@@ -133,6 +133,33 @@ For example, if the function is called with multiply(2, 5),it should return 10.<
 126.	Write a function that takes a number as input and returns true if it is a perfect number (the sum of its divisors equals itself) and false if it is not.
 127.	Create a function that takes an array of numbers and returns the number that appears the most times.
 128.	Write a function that takes a string as input and returns true if it is a valid phone number and false if it is not.
-129.	Create a function that takes an array of strings and returns a new array with only the ones that contain at least one digit.
+129.    Create a function that takes an array of strings and returns a new array with only the ones that contain at least one digit
+1.	Write a function that returns the sum of two numbers, but only if they are both even.
+2.	Write a function that takes a string as input and returns the same string, but with all vowels removed.
+3.	Write a function that takes an array of numbers as input and returns the average of the two highest numbers in the array.
+4.	Write a function that takes two arrays as input and returns a new array containing only the elements that are present in both arrays.
+5.	Write a function that takes a string as input and returns the reverse of the string.
+6.	Write a function that takes an array of objects, where each object has a "name" property, and returns a new array of just the names in alphabetical order.
+7.	Write a function that takes a number as input and returns true if the number is a prime number, false otherwise.
+8.	Write a function that takes an array of numbers as input and returns a new array containing the same numbers, but sorted in descending order.
+9.	Write a function that takes a string as input and returns true if the string is a palindrome, false otherwise.
+10.	Write a function that takes two arrays as input and returns a new array containing the elements that are present in one array but not the other.
+11.	Write a function that takes an array of objects, where each object has a "name" property, and returns a new array of just the names that have more than 5 characters.
+12.	Write a function that takes a number as input and returns true if the number is a power of 2, false otherwise.
+13.	Write a function that takes an array of numbers as input and returns the sum of the squares of all the numbers in the array.
+14.	Write a function that takes a string as input and returns the number of vowels in the string.
+15.	Write a function that takes two arrays as input and returns a new array containing only the elements that are present in one array and not the other.
+16.	Write a function that takes an array of objects, where each object has a "name" and "age" property, and returns a new array of just the names in order of increasing age.
+17.	Write a function that takes a number as input and returns true if the number is a perfect square, false otherwise.
+18.	Write a function that takes an array of numbers as input and returns the median value of the numbers in the array.
+19.	Write a function that takes a string as input and returns true if the string contains only unique characters, false otherwise.
+20.	Write a function that takes two arrays as input and returns a new array containing the elements that are present in both arrays, but only once.
+21.	Write a function that takes an array of objects, where each object has a "name" and "age" property, and returns a new array of just the names of people who are over 18 years old.
+22.	Write a function that takes a number as input and returns true if the number is a Fibonacci number, false otherwise.
+23.	Write a function that takes an array of numbers as input and returns the product of all the numbers in the array.
+24.	Write a function that takes a string as input and returns a new string where the first letter of each word is capitalized.
+25.	Write a function that takes two arrays as input and returns a new array containing the elements that are present in one array but not the other, in alphabetical order.
+26.	Write a function that takes an array of objects, where each object has a "name" and "age" property, and returns a new array of just the names of people who are under 18 years old.
+
 
     
