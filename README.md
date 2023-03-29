@@ -133,33 +133,34 @@ For example, if the function is called with multiply(2, 5),it should return 10.<
 126.	Write a function that takes a number as input and returns true if it is a perfect number (the sum of its divisors equals itself) and false if it is not.
 127.	Create a function that takes an array of numbers and returns the number that appears the most times.
 128.	Write a function that takes a string as input and returns true if it is a valid phone number and false if it is not.
-129.    Create a function that takes an array of strings and returns a new array with only the ones that contain at least one digit
-1.	Write a function that returns the sum of two numbers, but only if they are both even.
-2.	Write a function that takes a string as input and returns the same string, but with all vowels removed.
-3.	Write a function that takes an array of numbers as input and returns the average of the two highest numbers in the array.
-4.	Write a function that takes two arrays as input and returns a new array containing only the elements that are present in both arrays.
-5.	Write a function that takes a string as input and returns the reverse of the string.
-6.	Write a function that takes an array of objects, where each object has a "name" property, and returns a new array of just the names in alphabetical order.
-7.	Write a function that takes a number as input and returns true if the number is a prime number, false otherwise.
-8.	Write a function that takes an array of numbers as input and returns a new array containing the same numbers, but sorted in descending order.
-9.	Write a function that takes a string as input and returns true if the string is a palindrome, false otherwise.
-10.	Write a function that takes two arrays as input and returns a new array containing the elements that are present in one array but not the other.
-11.	Write a function that takes an array of objects, where each object has a "name" property, and returns a new array of just the names that have more than 5 characters.
-12.	Write a function that takes a number as input and returns true if the number is a power of 2, false otherwise.
-13.	Write a function that takes an array of numbers as input and returns the sum of the squares of all the numbers in the array.
-14.	Write a function that takes a string as input and returns the number of vowels in the string.
-15.	Write a function that takes two arrays as input and returns a new array containing only the elements that are present in one array and not the other.
-16.	Write a function that takes an array of objects, where each object has a "name" and "age" property, and returns a new array of just the names in order of increasing age.
-17.	Write a function that takes a number as input and returns true if the number is a perfect square, false otherwise.
-18.	Write a function that takes an array of numbers as input and returns the median value of the numbers in the array.
-19.	Write a function that takes a string as input and returns true if the string contains only unique characters, false otherwise.
-20.	Write a function that takes two arrays as input and returns a new array containing the elements that are present in both arrays, but only once.
-21.	Write a function that takes an array of objects, where each object has a "name" and "age" property, and returns a new array of just the names of people who are over 18 years old.
-22.	Write a function that takes a number as input and returns true if the number is a Fibonacci number, false otherwise.
-23.	Write a function that takes an array of numbers as input and returns the product of all the numbers in the array.
-24.	Write a function that takes a string as input and returns a new string where the first letter of each word is capitalized.
-25.	Write a function that takes two arrays as input and returns a new array containing the elements that are present in one array but not the other, in alphabetical order.
-26.	Write a function that takes an array of objects, where each object has a "name" and "age" property, and returns a new array of just the names of people who are under 18 years old.
+129.    Create a function that takes an array of strings and returns a new array with only the ones that contain at least one digit.
+130.    Write a function that returns the sum of two numbers, but only if they are both even.
+132.	Write a function that takes a string as input and returns the same string, but with all vowels removed.
+133.	Write a function that takes an array of numbers as input and returns the average of the two highest numbers in the array.
+134.	Write a function that takes two arrays as input and returns a new array containing only the elements that are present in both arrays.
+135.	Write a function that takes a string as input and returns the reverse of the string.
+136.	Write a function that takes an array of objects, where each object has a "name" property, and returns a new array of just the names in alphabetical order.
+137.	Write a function that takes a number as input and returns true if the number is a prime number, false otherwise.
+138.	Write a function that takes an array of numbers as input and returns a new array containing the same numbers, but sorted in descending order.
+139.	Write a function that takes a string as input and returns true if the string is a palindrome, false otherwise.
+140.	Write a function that takes two arrays as input and returns a new array containing the elements that are present in one array but not the other.
+141.	Write a function that takes an array of objects, where each object has a "name" property, and returns a new array of just the names that have more than 5 characters.
+142.	Write a function that takes a number as input and returns true if the number is a power of 2, false otherwise.
+143.	Write a function that takes an array of numbers as input and returns the sum of the squares of all the numbers in the array.
+144.	Write a function that takes a string as input and returns the number of vowels in the string.
+145.	Write a function that takes two arrays as input and returns a new array containing only the elements that are present in one array and not the other.
+146.	Write a function that takes an array of objects, where each object has a "name" and "age" property, and returns a new array of just the names in order of increasing age.
+147.	Write a function that takes a number as input and returns true if the number is a perfect square, false otherwise.
+148.	Write a function that takes an array of numbers as input and returns the median value of the numbers in the array.
+149.	Write a function that takes a string as input and returns true if the string contains only unique characters, false otherwise.
+150.	Write a function that takes two arrays as input and returns a new array containing the elements that are present in both arrays, but only once.
+151.	Write a function that takes an array of objects, where each object has a "name" and "age" property, and returns a new array of just the names of people who are over 18 years old.
+152.	Write a function that takes a number as input and returns true if the number is a Fibonacci number, false otherwise.
+153.	Write a function that takes an array of numbers as input and returns the product of all the numbers in the array.
+154.	Write a function that takes a string as input and returns a new string where the first letter of each word is capitalized.
+155.	Write a function that takes two arrays as input and returns a new array containing the elements that are present in one array but not the other, in alphabetical order.
+156.	Write a function that takes an array of objects, where each object has a "name" and "age" property, and returns a new array of just the names of people who are under 18 years old.
+157.	Write a function that takes in a string of parentheses, brackets, and curly braces, and determines if the order of the parentheses, brackets, and curly braces is valid. For example, the string "({[]})" is valid, but the string "{[}]}" is not.You must use only one stack data structure to solve this problem. Your function should return true if the order is valid and false otherwise.
 
 
     
