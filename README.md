@@ -179,6 +179,49 @@ A restaurant is compatible with a dietary restriction if all its menu items are 
 166.    How do you handle errors in your JavaScript code? What are some common best practices for error handling?
 167.    How do you optimize the performance of your JavaScript code? What are some common techniques for improving performance?
 168.    Can you explain the difference between let, const, and var in JavaScript? When would you use each of these keywords in your code?
+169.    Given an array of nested arrays, write a function flatten that returns a flattened array containing all the elements from the original nested arrays.
+
+For example, given the following input array:
+
+javascript
+
+const input = [1, [2, 3], [[4, 5], 6], 7];
+
+The flatten function should return the following flattened array:
+
+javascript
+
+[1, 2, 3, 4, 5, 6, 7]
+
+Requirements
+
+    The flatten function should take one argument: an array of nested arrays.
+
+    The flatten function should return a flattened array containing all the elements from the original nested arrays.
+
+    The flatten function should be able to handle an arbitrary number of nested arrays.
+
+    The flatten function should not modify the original input array.
+
+Example Usage
+
+javascript
+
+const input = [1, [2, 3], [[4, 5], 6], 7];
+const result = flatten(input);
+console.log(result); // [1, 2, 3, 4, 5, 6, 7]
+
+Tips
+
+    You can use recursion to handle an arbitrary number of nested arrays.
+
+    The Array.isArray method can be used to determine if an element is an array.
+
+    The concat method can be used to concatenate two arrays.
+
+Bonus
+
+Implement the flatten function using the reduce method.
 
 
 
