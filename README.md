@@ -168,6 +168,16 @@ For example, if the function is called with multiply(2, 5),it should return 10.<
     For "dairy-free" dietary restriction: "vegetable" or "meat"
 
 A restaurant is compatible with a dietary restriction if all its menu items are compatible with the dietary restriction.Your function should return an array of restaurant names that are compatible with the given dietary restriction.
+159.    Explain the difference between setTimeout and setInterval. How would you use each of these methods in practice?
+160.    What is a closure in JavaScript? Can you give an example of how you might use a closure in your code?
+ 161.    How does the event loop work in JavaScript? What are some common issues that can arise when working with the event loop?
+162.    Can you explain the concept of prototypal inheritance in JavaScript? How does it differ from classical inheritance in other languages?
+163.    What is a promise in JavaScript? How does it differ from a traditional callback function?
+164.    How would you implement a debounce function in JavaScript? What are some common use cases for debounce?
+165.    Can you explain the concept of hoisting in JavaScript? How can it impact the behavior of your code?
+166.    How do you handle errors in your JavaScript code? What are some common best practices for error handling?
+167.    How do you optimize the performance of your JavaScript code? What are some common techniques for improving performance?
+168.    Can you explain the difference between let, const, and var in JavaScript? When would you use each of these keywords in your code?
 
 
 
