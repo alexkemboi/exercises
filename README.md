@@ -161,6 +161,14 @@ For example, if the function is called with multiply(2, 5),it should return 10.<
 155.	Write a function that takes two arrays as input and returns a new array containing the elements that are present in one array but not the other, in alphabetical order.
 156.	Write a function that takes an array of objects, where each object has a "name" and "age" property, and returns a new array of just the names of people who are under 18 years old.
 157.	Write a function that takes in a string of parentheses, brackets, and curly braces, and determines if the order of the parentheses, brackets, and curly braces is valid. For example, the string "({[]})" is valid, but the string "{[}]}" is not.You must use only one stack data structure to solve this problem. Your function should return true if the order is valid and false otherwise.
+158.	You are given an array of objects representing restaurants, each with a name and an array of menu items. Write a function that takes in the array of restaurants and a string representing a dietary restriction (e.g., "vegetarian", "gluten-free", etc.) and returns an array of restaurants where every menu item is compatible with the given dietary restriction.Each menu item is represented as an object with a name and an array of ingredients. A menu item is compatible with a dietary restriction if all its ingredients are compatible with the dietary restriction.An ingredient is compatible with a dietary restriction if it is one of the following:
+
+    For "vegetarian" dietary restriction: "vegetable" or "grain"
+    For "gluten-free" dietary restriction: "vegetable" or "meat"
+    For "dairy-free" dietary restriction: "vegetable" or "meat"
+
+A restaurant is compatible with a dietary restriction if all its menu items are compatible with the dietary restriction.Your function should return an array of restaurant names that are compatible with the given dietary restriction.
+
 
 
     
