@@ -25,12 +25,13 @@ Here's some additional information:
     findPair([1, 2, 3, 4, 5, 6], 9)
     function findPair(arr,sum){
         let pair=[];
-        for(let i=0;i<arr.length;i++){
-            for(let x=arr.length;x>0;x--){
+        for(var i=0;i<arr.length;i++){
+            for(var x=arr.length;x>0;x--){
                 if(arr[i]+arr[x-1]===sum){
-                    pair.push([arr[i],arr[x-1]]);
+                    pair.push([arr[i],arr[x-1]]);                
+                    
                 }
             }
         }
-        console.log(pair);
+        console.log(pair[0]);
     }

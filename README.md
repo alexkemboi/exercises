@@ -222,6 +222,15 @@ Tips
 Bonus
 
 Implement the flatten function using the reduce method.
+170.    Implement a binary search tree: Write a class for a binary search tree that can insert, delete, and search for nodes. The class should also have methods to traverse the tree in different orders (e.g. in-order, pre-order, post-order). The time complexity of these methods should be O(log n) or better.
+
+171.    Implement a caching system: Write a function that takes a function as input and returns a new function that caches the output of the input function. The caching system should use a cache of limited size, and should remove the least recently used items when the cache is full. The time complexity of the caching system should be O(1) for get and set operations.
+
+172.    Implement a real-time collaborative editor: Write a web-based editor that allows multiple users to edit the same document in real-time. The editor should support basic text editing operations (e.g. insert, delete, move cursor) and should synchronize changes between clients in real-time. The editor should also handle conflicts when multiple users edit the same part of the document at the same time.
+
+173.    Implement a data visualization: Write a web-based data visualization that can display data in different formats (e.g. bar chart, line chart, scatter plot). The visualization should be interactive, allowing users to filter and sort the data, and should support animations to show changes over time. The time complexity of the visualization should be O(n) or better.
+
+174.    Optimize a slow function: Given a slow function (e.g. a function that takes a long time to execute or uses too much memory), optimize it to run faster or use less memory. You can use profiling tools to identify the slow parts of the function and apply optimization techniques such as memoization, parallelization, or data structure optimization. The optimized function should have a significant improvement in performance or memory usage.
 
 
 
