@@ -232,6 +232,42 @@ Implement the flatten function using the reduce method.
 
 174.    Optimize a slow function: Given a slow function (e.g. a function that takes a long time to execute or uses too much memory), optimize it to run faster or use less memory. You can use profiling tools to identify the slow parts of the function and apply optimization techniques such as memoization, parallelization, or data structure optimization. The optimized function should have a significant improvement in performance or memory usage.
 
+175.        Implement a function to find the longest palindrome in a string: Write a function that takes a string as input and returns the longest palindrome that can be formed using the characters in the string. A palindrome is a word or phrase that reads the same backward as forward (e.g. "racecar" or "A man, a plan, a canal, Panama!"). The function should have a time complexity of O(n^2) or better.
+
+176.    Implement a function to detect cycles in a linked list: Write a function that takes the head of a linked list as input and returns true if the list contains a cycle (i.e. if any node in the list points to a previous node in the list). The function should have a time complexity of O(n) and should use constant extra space (i.e. it should not create any additional data structures). You can assume that the linked list is non-empty and has at most one cycle.
+177.    Challenge: Implement a debounce function
+
+Implement a function called debounce that takes a function and a delay time as input, and returns a debounced version of the function.
+
+The debounced function should delay calling the original function until the delay time has elapsed since the last time the debounced function was called. If the debounced function is called again before the delay time has elapsed, the timer should reset and the function should be delayed again.
+
+The debounced function should also accept arguments and context, and should return the result of the original function.
+
+Here's an example usage of the debounce function:
+
+javascript
+
+function expensiveOperation() {
+  // Do some expensive operation here
+}
+
+const debouncedOperation = debounce(expensiveOperation, 1000);
+
+// Call the debounced function
+debouncedOperation();
+
+// Call the debounced function again before the delay time has elapsed
+debouncedOperation();
+
+// Wait for the delay time to elapse, then call the debounced function again
+setTimeout(() => {
+  debouncedOperation();
+}, 2000);
+
+In this example, the expensiveOperation function will be debounced by 1000 milliseconds (1 second). The first call to debouncedOperation will start the timer, but the expensive operation will not be executed until the delay time has elapsed. The second call to debouncedOperation will reset the timer, so the expensive operation will still not be executed. After 2 seconds, the delay time has elapsed, so the third call to debouncedOperation will execute the expensive operation.
+
+As a senior developer, you should be able to implement this function efficiently and handle edge cases such as calling the debounced function with different arguments or contexts.
+
 
 
     
